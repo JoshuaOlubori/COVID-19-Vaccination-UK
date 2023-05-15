@@ -15,7 +15,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/698fb9fe82c62ece6efcbfacfd0b0da29204812a/LICENSE.txt
+[license-url]: https://github.com/JoshuaOlubori/COVID-19-Vaccination-UK/blob/209cd42deaec81334a18ef4f59affb090356263a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshua-edun
 
@@ -79,7 +79,7 @@ Client wants a dashboard to capture a big picture of the COVID-19 vaccination da
 <!-- -->
   <a name="stakeholders"/>
   
-## Identifying Stakeholders 🧑🏽‍💼
+### Identifying Stakeholders 🧑🏽‍💼
 
 - NHS
 - Hospitals
@@ -154,7 +154,7 @@ The data resides in a Excel file with 4 sheets. The data I need resides in sheet
 
   <a name="contact"/>
   
-## Contact
+### Contact
 
 Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-edun) - joshuaolubori@gmail.com
 
