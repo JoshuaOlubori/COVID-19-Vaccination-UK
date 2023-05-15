@@ -17,7 +17,7 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/698fb9fe82c62ece6efcbfacfd0b0da29204812a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/clientname
+[linkedin-url]: https://linkedin.com/in/joshua-edun
 
 
 <!-- PROJECT LOGO -->
@@ -39,7 +39,6 @@
     <li><a href="#requirement">Requirement gathering</a></li>
         <li><a href="#stakeholders">Identifying stakeholders</a></li>
         <li> <a href="#raw-data">Understanding raw data</a></li>
-        <li><a href="#data-cleansing">Data cleansing </a></li>
         <li><a href="#data-processing">Data processing</a></li> 
 <li><a href="#modeling">Data modeling</a></li>
    <li><a href="#visualization">Data visualization</a></li> 
