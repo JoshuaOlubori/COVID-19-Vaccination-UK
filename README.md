@@ -159,7 +159,7 @@ The data resides in a Excel file with 4 sheets. The data I need resides in sheet
 
 Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-edun) - joshuaolubori@gmail.com
 
-Project Link: [Check out the dashboard](https://joshuaolubori.my.canva.site/project-00k1)
+Project Link: [Check out the dashboard]([https://joshuaolubori.my.canva.site/project-00k1](https://app.powerbi.com/view?r=eyJrIjoiYTMxZTQzNWMtODM2Ny00MzAxLTg2ZDMtMzZjZTFhOTEzYjczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)https://app.powerbi.com/view?r=eyJrIjoiYTMxZTQzNWMtODM2Ny00MzAxLTg2ZDMtMzZjZTFhOTEzYjczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
